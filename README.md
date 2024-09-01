@@ -1,4 +1,4 @@
-# Composite Relationship Fields with Transformers for Scene Graph Generation
+# STDG: Semi-Teacher-Student Training Paradigm for Depth-guided One-stage Scene Graph Generation
 
 This codebase is the official implementation of "STDG: Semi-Teacher-Student Training Paradigm for Depth-guided One-stage Scene Graph Generation" (Accepted at ICMR2024).
 
